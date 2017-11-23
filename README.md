@@ -1,7 +1,8 @@
 # mdevaluate example script
 
-This is a small script that demonstartes the installation and use of mdevaluate.
-The setup.sh script will
+This is a small script that demonstrates the installation and use of mdevaluate.
+The included setup.sh script is intended for a linux 64-bit systems, see https://conda.io/miniconda.html if you are using a different system.
+The script will
 
 1. Install a lokal Python 3 (miniconda)
 2. Install necessary Python packages
